@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MusicalStructureApp</string>
+
+    <string name="artist1">Ace (band)</string>                 <string name="song1">How Long (Ace song)</string>
+    <string name="artist2">Bryan Adams</string>                <string name="song2">(Everything I Do) I Do It for You</string>
+    <string name="artist3">Air Supply</string>                 <string name="song3">All Out of Love</string>
+    <string name="artist4">The Alan Parsons Project</string>   <string name="song4">Eye in the Sky (song)</string>
+    <string name="artist5">Alessi Brothers</string>            <string name="song5">Oh Lori</string>
+    <string name="artist6">Ambrosia (band)</string>            <string name="song6">Biggest Part of Me</string>
+    <string name="artist7">America (band)</string>             <string name="song7">A Horse with No Name</string>
+    <string name="artist8">Paul Anka</string>                  <string name="song8">(You\'re) Having My Baby</string>
+    <string name="artist9">The Association</string>            <string name="song9">Along Comes Mary</string>
+    <string name="artist10">Atlanta Rhythm Section</string>     <string name="song10">Imaginary Lover</string>
+    <string name="artist11">The Autumn Defense</string>         <string name="song11">Canyon Arrow</string>
+    <string name="song_image">Song Image</string>
+    <string name="fast_rewind">Fast Rewind</string>
+    <string name="play_button">Play Button</string>
+    <string name="fast_forward">Fast Forward</string>
+
+</resources>
